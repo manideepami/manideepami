@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello there 👋 I'm Manideep
+
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manideepami//)](https://www.linkedin.com/in/manideepami/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/manideepami/) ![Profile views](https://gpvc.arturio.dev/manideepami)
 
 <!--
 **manideepami/manideepami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
