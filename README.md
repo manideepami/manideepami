@@ -1,6 +1,5 @@
 # Hello there 👋 I'm Manideep
 
-**Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-manideepami@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manideepami@gmail.com)](mailto:manideepami@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Manideepami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manideepami//)](https://www.linkedin.com/in/manideepami/) 
 [![Github Badge](https://img.shields.io/badge/-manideepami-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/manideepami/)
