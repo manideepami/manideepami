@@ -5,7 +5,8 @@
 [![Github Badge](https://img.shields.io/badge/-manideepami-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/manideepami/)
 [![Twitter Badge](https://img.shields.io/badge/-manideepami-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/amimanideep/)](https://www.twitter.com/amimanideep/)
 
-<p>I'm a UI/UX designer developer and keen to become a full stack developer.</p>
+<p align='left'>I'm a UI/UX designer developer and keen to become a full stack developer.</p>
+
 <!--
 **manideepami/manideepami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
