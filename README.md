@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=manideepami&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/manideepami/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=manideepami&layout=compact)](https://github.com/manideepami/github-readme-stats)
