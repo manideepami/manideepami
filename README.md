@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=manideepami alt=manideepami /> </p>
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=manideepami&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/manideepami/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=manideepami&layout=compact)](https://github.com/manideepami/github-readme-stats)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=shivaarihant alt=shivaarihant /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=manideepami&show_icons=true&include_all_commits=true)](https://github.com/manideepami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manideepami&layout=compact)](https://github.com/manideepami/github-readme-stats)
+
