@@ -67,8 +67,9 @@ Here are some ideas to get you started:
 <div align="center"> <img src=https://komarev.com/ghpvc/?username=manideepami alt=manideepami /> </div>
 
 <div align="center">
-[![Github stats](https://github-readme-stats.vercel.app/api?username=manideepami&show_icons=true&include_all_commits=true)](https://github.com/manideepami/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=manideepami&show_icons=true&hide_border=true" alt="Gubbala Manideep's GitHub Stats">
 </div>
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
